@@ -44,10 +44,13 @@
 1056:purple
 1057:yellow
 1058:yellow
-1062:blue
+1059:purple
+1060:yellow
+1061:
+1062:purple
 1063:yellow
 1064:purple
 1066:yellow
-1067:green
+1067:purple
 1068:purple
-1069:green
+1069:yellow
