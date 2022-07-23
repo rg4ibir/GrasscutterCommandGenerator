@@ -3073,8 +3073,8 @@
 23623: Lawurel Coronet
 23624: Labyrinth Wayfarer
 23625: A Time of Insight
-23631: Honeyed Final Feast (Goblet)
-23632: Feather of Judgment (Feather)
-23633: Shadow of the Sand King (Circlet)
-23634: Dreaming Steelbloom (Flower)
-23635: The Sunken Years (Sands)
+23631: Honeyed Final Feast
+23632: Feather of Judgment
+23633: Shadow of the Sand King
+23634: Dreaming Steelbloom
+23635: The Sunken Years
