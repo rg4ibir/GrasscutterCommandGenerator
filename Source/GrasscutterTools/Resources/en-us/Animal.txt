@@ -222,3 +222,18 @@
 28250104: Electro Crystalfly
 28250105: Coral Butterfly
 28250301: Lucklight Fly
+28030313: Dusk Bird
+28020314: Shroomboar
+28020313: Shroomboar
+28060101: Spinokrok
+28060201: Rishboland Tiger
+28060601: Shaggy Sumpter Beast
+28040801: True Fruit Angler
+28040802: Peach of the Deep Waves
+28040803: Sandstorm Angler
+28040804: Sunset Cloud Angler
+28040901: Lazurite Axe Marlin
+28040902: Halcyon Jade Axe Marlin
+28050106: Dendro Crystalfly
+28010304: Forest Tree Frog
+28010208: Red Tailed Lizard
