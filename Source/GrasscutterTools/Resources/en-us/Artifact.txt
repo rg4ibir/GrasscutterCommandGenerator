@@ -3068,3 +3068,13 @@
 99552: Lord of Wind over Firmament's Hourglass
 99553: Lord of Wind over Firmament's Hourglass
 99554: Lord of Wind over Firmament's Hourglass
+23621: Lamp of the Lost
+23622: Scholar of Vines
+23623: Lawurel Coronet
+23624: Labyrinth Wayfarer
+23625: A Time of Insight
+23631: Honeyed Final Feast (Goblet)
+23632: Feather of Judgment (Feather)
+23633: Shadow of the Sand King (Circlet)
+23634: Dreaming Steelbloom (Flower)
+23635: The Sunken Years (Sands)
