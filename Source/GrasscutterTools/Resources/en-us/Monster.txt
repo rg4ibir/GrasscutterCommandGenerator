@@ -328,3 +328,25 @@
 24010202: Ruin Hunter
 24010302: Ruin Grader
 26040105: Geovishap
+20060701: Dendro Specter
+24030201: Ruin Drake: Earthguard
+24030101: Ruin Drake: Skywatch
+25210101: Eremite Axe Vanguard
+25210201: Eremite Crossbow
+25210301: Eremite Ravenbeak Halberdier
+25210401: Eremite Linebreaker
+25210501: Eremite Sword-Dancer
+25310101: Eremite Desert Clearwater
+25310201: Eremite Sunfrost
+25310301: Eremite Daythunder
+26020301: Electro Regisvine
+26090201: Floating Dendro Fungus
+26090401: Stretchy Electro Fungus
+26090501: Stretchy Cryo Fungus
+26090701: Stretchy Pyro Fungus
+26090801: Stretchy Anemo Fungus
+26090901: Stretchy Geo Fungus
+26120301: Grounded Hydroshroom
+26120101: Winged Dendroshroom
+26120201: Winged Cryoshroom
+26110101: Jadeplume Terrorshroom
