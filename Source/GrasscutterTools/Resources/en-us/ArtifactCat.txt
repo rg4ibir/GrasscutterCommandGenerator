@@ -30,13 +30,6 @@
 87: Prayers to Springtime
 88: Archaic Petra
 89: Retracing Bolide
-90: Heart of Depth
-91: Tenacity of the Millelith
-92: Pale Flame
-93: Shimenawa's Reminiscence
-94: Emblem of Severed Fate
-95: Husk of Opulent Dreams
-96: Ocean-Hued Clam
-97: Vermillion Hereafter
-98: Echoes of an Offering
 99: Lord of the Winds
+20: Deepwood Memories
+21: Gilded Dreams
