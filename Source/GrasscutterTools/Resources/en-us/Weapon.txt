@@ -20,6 +20,7 @@
 11413: Festering Desire
 11414: Amenoma Kageuchi
 11415: Cinnabar Spindle
+11417: Timber Blade
 11501: Aquila Favonia
 11502: Skyward Blade
 11503: Freedom-Sworn
@@ -50,6 +51,7 @@
 12412: Luxurious Sea-Lord
 12414: Katsuragikiri Nagamasa
 12416: Akuoumaru
+12417: Forest Regalia
 12501: Skyward Pride
 12502: Wolf's Gravestone
 12503: Song of Broken Pines
@@ -75,6 +77,7 @@
 13414: Kitain Cross Spear
 13415: "The Catch"
 13416: Wavebreaker's Fin
+13417: Moonpiercer
 13501: Staff of Homa
 13502: Skyward Spine
 13504: Vortex Vanquisher
@@ -104,6 +107,7 @@
 14413: Dodoco Tales
 14414: Hakushin Ring
 14415: Oathsworn Eye
+14417: Fruit of Fulfillment
 14501: Skyward Atlas
 14502: Lost Prayer to the Sacred Winds
 14503: Lost Ballade
@@ -135,6 +139,7 @@
 15414: Hamayumi
 15415: Predator
 15416: Mouun's Moon
+15417: King's Squire
 15501: Skyward Harp
 15502: Amos' Bow
 15503: Elegy for the End
@@ -144,3 +149,4 @@
 15507: Polar Star
 15508: Aqua Simulacra
 15509: Thundering Pulse
+15511: Hunter's Path
