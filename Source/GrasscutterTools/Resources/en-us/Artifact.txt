@@ -3068,13 +3068,23 @@
 99552: Lord of Wind over Firmament's Hourglass
 99553: Lord of Wind over Firmament's Hourglass
 99554: Lord of Wind over Firmament's Hourglass
-23621: Lamp of the Lost
-23622: Scholar of Vines
-23623: Lawurel Coronet
-23624: Labyrinth Wayfarer
-23625: A Time of Insight
-23631: Honeyed Final Feast
-23632: Feather of Judgment
-23633: Shadow of the Sand King
-23634: Dreaming Steelbloom
-23635: The Sunken Years
+20513: Lamp of the Lost
+20514: Lamp of the Lost
+20523: Scholar of Vines
+20524: Scholar of Vines
+20533: Lawurel Coronet
+20534: Lawurel Coronet
+20543: Labyrinth Wayfarer
+20544: Labyrinth Wayfarer
+20553: A Time of Insight
+20554: A Time of Insight
+21553: Honeyed Final Feast
+21514: Honeyed Final Feast
+21523: Feather of Judgment
+21524: Feather of Judgment
+21533: Shadow of the Sand King
+21534: Shadow of the Sand King
+21543: Dreaming Steelbloom
+21544: Dreaming Steelbloom
+21553: The Sunken Years
+21554: The Sunken Years
